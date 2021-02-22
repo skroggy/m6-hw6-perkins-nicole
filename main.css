@@ -16,12 +16,12 @@ header {
 }
 
 h2 {
-    padding: 7% 0;
+    padding: 7%;
     color: white;
 }
 
 h6 {
-    margin-top: 3%;
+    margin: 3% auto;
     color: rgb(57, 4, 204)
 }
 
@@ -55,4 +55,11 @@ section {
 
 #box3 {
     background-color: rgb(165, 226, 44);
+}
+
+button {
+    background-color: rgb(57, 4, 204);
+    color: white;
+    margin: 7% auto;
+    padding: 2% 5%;
 }

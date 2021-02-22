@@ -43,7 +43,7 @@ boxThree.onclick = function() {
 
 
 main.onclick = function() {
-    main.appendChild(btn);
+    document.body.appendChild(btn);
 }
 
 btn.onclick = function() {
